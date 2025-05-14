@@ -6,3 +6,5 @@
 7. designed to work with noctua 120mm fans mounted using the provided screws, other should work as well.
 8. large through holes with small mounting holes for mounting the bracket serprate from the controller for less fuss.
 9. brackets are symetrical , there is no top ,bottom, left, right.
+10. large frame is for 150 & 250 / 85A & 100A
+11. medium frame is for 150 & 250 / 60A & 70A
